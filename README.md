@@ -10,6 +10,25 @@ An iframe free text editor that uses native components in the content tree. Moti
 
 [<img src="https://github.com/irshuLx/Android-WYSIWYG-Editor/raw/master/screens/google-play-badge.png">](https://play.google.com/store/apps/details?id=com.github.irshulx.wysiwyg_editor)
 
+# Changelogs by `Ameer Muwiya`
+
+- 🚀 Upgraded all dependencies to latest stable versions
+- 🔄 Migrated from Android Support libraries to full AndroidX
+- 🧩 Fixed incorrect AndroidX mappings (Fragment, ViewPager, etc.)
+- 🏗 Migrated project to AGP 9 with modern Gradle plugin DSL
+- 🧹 Removed JCenter, Bintray, and legacy publishing scripts
+- 🧱 Rebuilt missing layouts and restored required resource files
+- 🎨 Replaced old Design widgets with Material Components
+- 📱 Added Android 12+ compatibility (android:exported fixes)
+- 🛠 Fixed InflateExceptions and layout attribute issues
+- 📚 Added required AndroidX dependencies (Fragment, ViewPager, CoordinatorLayout)
+- 🧪 Resolved Material library minSdk conflicts
+- 💥 Implemented global crash handler with automatic log capture
+- 📋 Auto-copy crash logs to internal storage and clipboard
+- ⚙ Enabled Java 17 compatibility
+- ✅ Cleaned and stabilized overall project structure
+
+
 
 ## Changelog
 

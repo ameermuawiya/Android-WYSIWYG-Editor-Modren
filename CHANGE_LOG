@@ -1,10 +1,17 @@
-* fixed the glitch when divider is inserted between the contents
+# Changelogs
 
-
-TODO
-
-if the path is not url, it shouldnt be extracted as content
-
-edittext marfgin botom
-
-styleing of editttext in styles.xml
+- 🚀 Upgraded all dependencies to latest stable versions
+- 🔄 Migrated from Android Support libraries to full AndroidX
+- 🧩 Fixed incorrect AndroidX mappings (Fragment, ViewPager, etc.)
+- 🏗 Migrated project to AGP 9 with modern Gradle plugin DSL
+- 🧹 Removed JCenter, Bintray, and legacy publishing scripts
+- 🧱 Rebuilt missing layouts and restored required resource files
+- 🎨 Replaced old Design widgets with Material Components
+- 📱 Added Android 12+ compatibility (android:exported fixes)
+- 🛠 Fixed InflateExceptions and layout attribute issues
+- 📚 Added required AndroidX dependencies (Fragment, ViewPager, CoordinatorLayout)
+- 🧪 Resolved Material library minSdk conflicts
+- 💥 Implemented global crash handler with automatic log capture
+- 📋 Auto-copy crash logs to internal storage and clipboard
+- ⚙ Enabled Java 17 compatibility
+- ✅ Cleaned and stabilized overall project structure
