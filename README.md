@@ -1,14 +1,6 @@
 
 
-[ ![Download](https://api.bintray.com/packages/irshu/maven/laser-native-editor/images/download.svg) ](https://bintray.com/irshu/maven/laser-native-editor/_latestVersion)&nbsp;![enter image description here](https://img.shields.io/badge/issues-16-yellow.svg)&nbsp;[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
-Android-WYSIWYG-Editor
-===================
-
-
-An iframe free text editor that uses native components in the content tree. Motivation was to create a clean native feel WYSIWYG editor like medium.com has.
-
-[<img src="https://github.com/irshuLx/Android-WYSIWYG-Editor/raw/master/screens/google-play-badge.png">](https://play.google.com/store/apps/details?id=com.github.irshulx.wysiwyg_editor)
+![enter image description here](https://img.shields.io/badge/issues-16-yellow.svg)&nbsp;[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # Changelogs by `Ameer Muwiya`
 
@@ -29,8 +21,7 @@ An iframe free text editor that uses native components in the content tree. Moti
 - ✅ Cleaned and stabilized overall project structure
 
 
-
-## Changelog
+## Release Changelogs
 
 ## [3.0.4 - 30 July 2019]
 
